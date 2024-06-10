@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "245349378617",
+    "project_id": "bhramayogi-8f29a",
+    "storage_bucket": "bhramayogi-8f29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245349378617:android:2cd774616f357bb9e7bbe8",
+        "android_client_info": {
+          "package_name": "com.brahmayogi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245349378617-43du0uph80p2g7fh5fmc95ftnnucet5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1yOgIpzLFDN_woSkD4EK7u6wgt4JAL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245349378617-43du0uph80p2g7fh5fmc95ftnnucet5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245349378617:android:b44d5d74852cea88e7bbe8",
+        "android_client_info": {
+          "package_name": "com.teckzy.brahmayogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245349378617-43du0uph80p2g7fh5fmc95ftnnucet5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1yOgIpzLFDN_woSkD4EK7u6wgt4JAL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245349378617-43du0uph80p2g7fh5fmc95ftnnucet5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
